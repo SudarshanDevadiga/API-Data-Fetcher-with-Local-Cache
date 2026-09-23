@@ -19,8 +19,8 @@ A Flutter application demonstrating asynchronous network requests to a REST API,
 ---
 
 ## Screenshots
-<img width="1470" height="956" alt="Screenshot 2026-09-23 at 1 53 17 PM" src="https://github.com/user-attachments/assets/2bc27a49-ad8b-4ec4-af4a-22043cefb6f4" />
-<img width="1470" height="956" alt="Screenshot 2026-09-23 at 1 53 25 PM" src="https://github.com/user-attachments/assets/67037a6b-32a4-4fe6-b6f7-117255c539dc" />
+<img width="1470" height="956" alt="Screenshot 2026-09-23 at 1 53 25 PM" src="https://github.com/user-attachments/assets/6ceaf75b-760b-40e0-8677-46d8ee6487d6" />
+<img width="1470" height="956" alt="Screenshot 2026-09-23 at 1 53 17 PM" src="https://github.com/user-attachments/assets/386a3182-9181-4617-9ac8-1ce7eb7609f2" />
 
 
 ## 📁 Project Structure
