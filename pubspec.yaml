@@ -1,0 +1,19 @@
+name: api_data_fetcher_with_local_cache
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+# Add this block:
+environment:
+  sdk: '>=3.0.0 <4.0.0' 
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
